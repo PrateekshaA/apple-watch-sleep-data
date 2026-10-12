@@ -1,0 +1,84 @@
+# Raw datasets: retain only the BIDSleep metadata used by the downloader.
+/SleepData/*
+!/SleepData/a-multi-night-instantaneous-heart-rate-and-accelerometry-dataset-with-eeg-sleep-stage-labels-1.0.0/
+/SleepData/a-multi-night-instantaneous-heart-rate-and-accelerometry-dataset-with-eeg-sleep-stage-labels-1.0.0/*
+!/SleepData/a-multi-night-instantaneous-heart-rate-and-accelerometry-dataset-with-eeg-sleep-stage-labels-1.0.0/LICENSE.txt
+!/SleepData/a-multi-night-instantaneous-heart-rate-and-accelerometry-dataset-with-eeg-sleep-stage-labels-1.0.0/README.md
+!/SleepData/a-multi-night-instantaneous-heart-rate-and-accelerometry-dataset-with-eeg-sleep-stage-labels-1.0.0/SHA256SUMS.txt
+
+# Data exports
+*.zip
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.mat
+*.sqlite
+*.db
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local experiment output; allow only curated artifacts from retained runs.
+*.svg
+/outputs/*
+!/outputs/mode_anchored/
+!/outputs/mode_walk_forward/
+/outputs/mode_*/*
+!/outputs/mode_*/SUMMARY.md
+!/outputs/mode_*/configuration.json
+!/outputs/mode_*/metrics.csv
+!/outputs/mode_*/missing_sensor_fraction.csv
+!/outputs/mode_*/stage_counts.csv
+!/outputs/mode_*/split_manifest.json
+!/outputs/mode_*/summary.json
+!/outputs/mode_*/mlp_training_curve_*.svg
+!/outputs/mode_*/test_accuracy_by_history.svg
+!/outputs/mode_*/test_macro_f1_by_history.svg
+figures/
+results/
+*_results/
+model_results*/
+
+# Private notes, presentation drafts, and local model guide
+/Notes for what I wasn't understanding.docx
+/Abstract.docx
+/AI Symposium Poster.pptx
+/AI Symposium Poster.pdf
+/model_explanation.html
+/Poster/
+/Script - Cue Cards.docx
+/Speaking Notes.docx
+
+# Local publication recovery files and scratch work
+/.republication-backup/
+/.codex_abstract_review/
+/tmp/
+
+# Build/render artifacts and local dependencies
+node_modules/
+artifact_build/
+*_render/
+.*_render/
+.docx_review/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local secrets/configuration
+.env
+.env.*
+!.env.example

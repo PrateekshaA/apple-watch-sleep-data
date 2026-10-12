@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="590" viewBox="0 0 940 590">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="470.0" y="36" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="bold">Test Accuracy by Personalization History (Walk-Forward, 47 Subjects)</text>
+<line x1="95" y1="505.0" x2="905" y2="505.0" stroke="#e5e7eb"/>
+<text x="77" y="511.0" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="20">0.000</text>
+<line x1="95" y1="396.3" x2="905" y2="396.3" stroke="#e5e7eb"/>
+<text x="77" y="402.3" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="20">0.200</text>
+<line x1="95" y1="287.5" x2="905" y2="287.5" stroke="#e5e7eb"/>
+<text x="77" y="293.5" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="20">0.400</text>
+<line x1="95" y1="178.8" x2="905" y2="178.8" stroke="#e5e7eb"/>
+<text x="77" y="184.8" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="20">0.600</text>
+<line x1="95" y1="70.0" x2="905" y2="70.0" stroke="#e5e7eb"/>
+<text x="77" y="76.0" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="20">0.800</text>
+<line x1="95" y1="70" x2="95" y2="505" stroke="#111827" stroke-width="1.5"/>
+<line x1="95" y1="505" x2="905" y2="505" stroke="#111827" stroke-width="1.5"/>
+<text x="500.0" y="574" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="23">Personalization History, k (Nights)</text>
+<text x="20" y="287.5" text-anchor="middle" transform="rotate(-90 20 287.5)" font-family="Roboto, Arial, sans-serif" font-size="23">Accuracy</text>
+<text x="95.0" y="532" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20">0</text>
+<text x="257.0" y="532" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20">1</text>
+<text x="419.0" y="532" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20">2</text>
+<text x="581.0" y="532" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20">3</text>
+<text x="743.0" y="532" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20">4</text>
+<text x="905.0" y="532" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20">5</text>
+<polyline points="95.0,211.6 257.0,191.1 419.0,194.4 581.0,197.2 743.0,191.3 905.0,174.6" fill="none" stroke="#16a34a" stroke-width="3"/>
+<circle cx="95.0" cy="211.6" r="4" fill="#16a34a"/>
+<circle cx="257.0" cy="191.1" r="4" fill="#16a34a"/>
+<circle cx="419.0" cy="194.4" r="4" fill="#16a34a"/>
+<circle cx="581.0" cy="197.2" r="4" fill="#16a34a"/>
+<circle cx="743.0" cy="191.3" r="4" fill="#16a34a"/>
+<circle cx="905.0" cy="174.6" r="4" fill="#16a34a"/>
+<polyline points="95.0,221.5 257.0,190.3 419.0,199.3 581.0,191.2 743.0,189.6 905.0,183.9" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<circle cx="95.0" cy="221.5" r="4" fill="#7c3aed"/>
+<circle cx="257.0" cy="190.3" r="4" fill="#7c3aed"/>
+<circle cx="419.0" cy="199.3" r="4" fill="#7c3aed"/>
+<circle cx="581.0" cy="191.2" r="4" fill="#7c3aed"/>
+<circle cx="743.0" cy="189.6" r="4" fill="#7c3aed"/>
+<circle cx="905.0" cy="183.9" r="4" fill="#7c3aed"/>
+<polyline points="257.0,300.8 419.0,307.4 581.0,307.0 743.0,314.4 905.0,301.0" fill="none" stroke="#6b7280" stroke-width="3"/>
+<circle cx="257.0" cy="300.8" r="4" fill="#6b7280"/>
+<circle cx="419.0" cy="307.4" r="4" fill="#6b7280"/>
+<circle cx="581.0" cy="307.0" r="4" fill="#6b7280"/>
+<circle cx="743.0" cy="314.4" r="4" fill="#6b7280"/>
+<circle cx="905.0" cy="301.0" r="4" fill="#6b7280"/>
+<text x="95.0" y="199.6" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#4b5563">n=47</text>
+<text x="257.0" y="178.3" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#4b5563">n=47</text>
+<text x="419.0" y="182.4" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#4b5563">n=43</text>
+<text x="581.0" y="179.2" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#4b5563">n=35</text>
+<text x="743.0" y="177.6" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#4b5563">n=23</text>
+<text x="905.0" y="162.6" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#4b5563">n=11</text>
+<line x1="680" y1="80" x2="715" y2="80" stroke="#16a34a" stroke-width="3"/>
+<text x="723" y="87" font-family="Roboto, Arial, sans-serif" font-size="18">Random Forest</text>
+<line x1="680" y1="104" x2="715" y2="104" stroke="#7c3aed" stroke-width="3"/>
+<text x="723" y="111" font-family="Roboto, Arial, sans-serif" font-size="18">Neural Network</text>
+<line x1="680" y1="128" x2="715" y2="128" stroke="#6b7280" stroke-width="3"/>
+<text x="723" y="135" font-family="Roboto, Arial, sans-serif" font-size="18">Majority Stage</text>
+</svg>
